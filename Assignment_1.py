@@ -1,5 +1,7 @@
 #1/write a command to get the python version you are using
 #>>>to go cmd and write python to get version 
+import sys
+Print (sys)
 #2write a python script to print "Hellow python" on the screen directly in the command line
 
 #3write a python script and store it in file and execute the file from the command line
@@ -9,9 +11,9 @@ print("Hello python")
 #5write a python script to print "Hello" on the first line and "python" on the second line
 print("Hello\nPython")
 #6write a python script to print "MySirG" on the screen 
-print("MySirG")
+print("\"MySirG"/")
 #7write a python script to print "Teacher's Day" on the screen 
-print("Teacher's Day")
+print("\"Teacher's Day"/")
 #8write a python script to print the value of a variable. Variable contains your name as data 
 a="Soumik"
 print(a)
